@@ -15,21 +15,18 @@ Make sure you have Python 3
 Make sure you have Python 3
 
 
-Install Mesa
----------------
+### Install Mesa
 Install Mesa on Python 3:
 
     $ pip3 install mesa
 
-Dependencies
---------------
+### Dependencies
 Install all dependencies either manually or by using
 ```
 $ pip3 install -r requirements.txt
 ```
 
-Run
------
+### Run
 Download this repository.
 On Terminal or Command Prompt, cd into the main directory for this repository.
 And run
@@ -37,10 +34,10 @@ And run
 $ python3 VisualizeEconomy.py
 ```
 
-View
+### View
 -----
 The server should host it on http://127.0.0.1:8521/
 
-Support
+### Support
 -----
 Star this repo if you found this model useful. Reach out to me if you'd like to collaborate.
