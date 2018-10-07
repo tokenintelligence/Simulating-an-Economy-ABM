@@ -25,12 +25,17 @@ Install all dependencies either manually or by using
 $ pip3 install -r requirements.txt
 ```
 
-### Run
+### Clone
 Clone this repository.
 ```
-$ git clone ???
+$ git clone https://github.com/ShrutiAppiah/Simulating-an-Economy-ABM
 ```
 On Terminal or Command Prompt, cd into the main directory for this repository.
+
+### Run
+```
+$ cd Simulating-an-Economy-ABM
+```
 And run
 ```
 $ python3 VisualizeEconomy.py
