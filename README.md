@@ -8,9 +8,8 @@ Built out of a project for scientifically evaluating an organizational incentive
 
 Read my paper on [Decentralized Organizations as Multi-Agent Systems](https://www.researchgate.net/publication/319875145_Decentralized_Organizations_as_Multi-Agent_Systems_-_A_Complex_Systems_Perspective "Decentralized Organizations as Multi-Agent Systems")
 
-## Workshop
------
-Make sure you have Python 3
+## Cryptosystems Simulation Workshop
+Ahoj Ethereum developers! 
 
 ### Python
 Make sure you have Python 3
@@ -27,7 +26,10 @@ $ pip3 install -r requirements.txt
 ```
 
 ### Run
-Download this repository.
+Clone this repository.
+```
+$ git clone ???
+```
 On Terminal or Command Prompt, cd into the main directory for this repository.
 And run
 ```
