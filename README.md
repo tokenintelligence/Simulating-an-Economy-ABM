@@ -9,11 +9,11 @@ Built out of a project for scientifically evaluating an organizational incentive
 Read my paper on [Decentralized Organizations as Multi-Agent Systems](https://www.researchgate.net/publication/319875145_Decentralized_Organizations_as_Multi-Agent_Systems_-_A_Complex_Systems_Perspective "Decentralized Organizations as Multi-Agent Systems")
 
 ## Workshop
+-----
 Make sure you have Python 3
 
 ### Python
 Make sure you have Python 3
-
 
 ### Install Mesa
 Install Mesa on Python 3:
@@ -35,9 +35,7 @@ $ python3 VisualizeEconomy.py
 ```
 
 ### View
------
 The server should host it on http://127.0.0.1:8521/
 
 ### Support
------
 Star this repo if you found this model useful. Reach out to me if you'd like to collaborate.
