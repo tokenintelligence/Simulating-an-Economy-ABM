@@ -33,6 +33,7 @@ $ git clone https://github.com/ShrutiAppiah/Simulating-an-Economy-ABM
 On Terminal or Command Prompt, cd into the main directory for this repository.
 
 ### Run
+Navigate into the cloned repo folder 
 ```
 $ cd Simulating-an-Economy-ABM
 ```
